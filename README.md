@@ -6,3 +6,4 @@
 - Added aria labels to name, email, and message form text boxes.
 - Added header, main, and footer sections to index.html.
 - Changed nav and footer text color to white, body text color to #1A1A1A.
+- Changed .hero h1 font size to 60px.
