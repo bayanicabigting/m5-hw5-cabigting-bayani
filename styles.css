@@ -6,7 +6,7 @@ html {
 body {
   margin: 0 auto;
   font-family: "Segoe UI", sans-serif;
-  color: #424242;
+  color: #1A1A1A;
   backdrop-filter: blur(2px);
   -webkit-backdrop-filter: blur(2px);
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
@@ -27,7 +27,7 @@ body {
 
 .nav a {
   text-decoration: none;
-  color: #FFFFFF; 
+  color: white; 
   font-weight: bold;
 }
 
@@ -54,7 +54,7 @@ body {
   margin: 0 auto;
 }
 
-.content h3 {
+.content h2 {
   font-size: 28px;
   margin-bottom: 10px;
 }
@@ -116,7 +116,7 @@ textarea:focus {
 .footer {
   margin-top: auto;
   background-color: #333;
-  color: #FFFFFF;
+  color: white;
   padding: 20px;
   text-align: center;
   font-size: 14px;
